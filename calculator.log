@@ -1,0 +1,49 @@
+
+2022-04-15 02:45:55.818 [main] INFO  calculator.Calculator - [SQ ROOT] - 4.0
+2022-04-15 02:45:55.819 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 2.0
+2022-04-15 02:45:55.820 [main] INFO  calculator.Calculator - [SQ ROOT] - 5.0
+2022-04-15 02:45:55.820 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 2.23606797749979
+2022-04-15 02:45:55.820 [main] INFO  calculator.Calculator - [NATURAL LOG] - 1.0
+2022-04-15 02:45:55.820 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.0
+2022-04-15 02:45:55.820 [main] INFO  calculator.Calculator - [NATURAL LOG] - 1.0
+2022-04-15 02:45:55.821 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.0
+2022-04-15 02:45:55.821 [main] INFO  calculator.Calculator - [POWER - 2.0 RAISED TO] 3.0
+2022-04-15 02:45:55.821 [main] INFO  calculator.Calculator - [RESULT - POWER] - 8.0
+2022-04-15 02:45:55.821 [main] INFO  calculator.Calculator - [POWER - 2.0 RAISED TO] 4.0
+2022-04-15 02:45:55.821 [main] INFO  calculator.Calculator - [RESULT - POWER] - 16.0
+2022-04-15 02:45:55.822 [main] INFO  calculator.Calculator - [POWER - 3.0 RAISED TO] 3.0
+2022-04-15 02:45:55.822 [main] INFO  calculator.Calculator - [RESULT - POWER] - 27.0
+2022-04-15 02:45:55.822 [main] INFO  calculator.Calculator - [POWER - 4.0 RAISED TO] 2.0
+2022-04-15 02:45:55.822 [main] INFO  calculator.Calculator - [RESULT - POWER] - 16.0
+2022-04-15 02:45:55.822 [main] INFO  calculator.Calculator - [NATURAL LOG] - 2.4
+2022-04-15 02:45:55.823 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.8754687373538999
+2022-04-15 02:45:55.823 [main] INFO  calculator.Calculator - [NATURAL LOG] - 7.0
+2022-04-15 02:45:55.823 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 1.9459101490553132
+2022-04-15 02:45:55.823 [main] INFO  calculator.Calculator - [SQ ROOT] - 16.0
+2022-04-15 02:45:55.823 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 4.0
+2022-04-15 02:45:55.823 [main] INFO  calculator.Calculator - [SQ ROOT] - 25.0
+2022-04-15 02:45:55.824 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 5.0
+2022-04-15 02:49:36.152 [main] INFO  calculator.Calculator - [SQ ROOT] - 4.0
+2022-04-15 02:49:36.154 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 2.0
+2022-04-15 02:49:36.154 [main] INFO  calculator.Calculator - [SQ ROOT] - 5.0
+2022-04-15 02:49:36.154 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 2.23606797749979
+2022-04-15 02:49:36.155 [main] INFO  calculator.Calculator - [NATURAL LOG] - 1.0
+2022-04-15 02:49:36.155 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.0
+2022-04-15 02:49:36.155 [main] INFO  calculator.Calculator - [NATURAL LOG] - 1.0
+2022-04-15 02:49:36.155 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.0
+2022-04-15 02:49:36.156 [main] INFO  calculator.Calculator - [POWER - 2.0 RAISED TO] 3.0
+2022-04-15 02:49:36.156 [main] INFO  calculator.Calculator - [RESULT - POWER] - 8.0
+2022-04-15 02:49:36.156 [main] INFO  calculator.Calculator - [POWER - 2.0 RAISED TO] 4.0
+2022-04-15 02:49:36.156 [main] INFO  calculator.Calculator - [RESULT - POWER] - 16.0
+2022-04-15 02:49:36.156 [main] INFO  calculator.Calculator - [POWER - 3.0 RAISED TO] 3.0
+2022-04-15 02:49:36.156 [main] INFO  calculator.Calculator - [RESULT - POWER] - 27.0
+2022-04-15 02:49:36.157 [main] INFO  calculator.Calculator - [POWER - 4.0 RAISED TO] 2.0
+2022-04-15 02:49:36.157 [main] INFO  calculator.Calculator - [RESULT - POWER] - 16.0
+2022-04-15 02:49:36.157 [main] INFO  calculator.Calculator - [NATURAL LOG] - 2.4
+2022-04-15 02:49:36.157 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.8754687373538999
+2022-04-15 02:49:36.157 [main] INFO  calculator.Calculator - [NATURAL LOG] - 7.0
+2022-04-15 02:49:36.157 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 1.9459101490553132
+2022-04-15 02:49:36.158 [main] INFO  calculator.Calculator - [SQ ROOT] - 16.0
+2022-04-15 02:49:36.158 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 4.0
+2022-04-15 02:49:36.158 [main] INFO  calculator.Calculator - [SQ ROOT] - 25.0
+2022-04-15 02:49:36.158 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 5.0

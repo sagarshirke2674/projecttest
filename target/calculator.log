@@ -1,0 +1,4 @@
+2022-04-15 02:47:49.004 [main] INFO  calculator.Calculator - [NATURAL LOG] - 2.0
+2022-04-15 02:47:49.009 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.6931471805599453
+2022-04-15 02:49:51.950 [main] INFO  calculator.Calculator - [POWER - 2.0 RAISED TO] 3.0
+2022-04-15 02:49:51.954 [main] INFO  calculator.Calculator - [RESULT - POWER] - 8.0
